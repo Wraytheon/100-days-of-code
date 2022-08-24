@@ -12,8 +12,8 @@
 
 <hr>
 
-* Goal  1
-* Goal 2
+- Goal  1
+- Goal 2
 
 <br>
 
@@ -21,16 +21,35 @@
 
 <hr>
 
-* Progress
-* Progress
+- What I did/Project name
+    - **What I learned:** <br>
+What I learned
+<br>
 
-## **Notes & Thoughts**
+    - **Challenges:** <br>
+Challenges
+<br>
+
+    - [Link to work](link-address)
+    - [Tool Or Resources used](tool-or-resource)
+
+- Progress
+
+    - [Link](link-address)
+
+## **Notes, Challenges, & Thoughts**
 
 <hr>
 
-* Note
-* Thought
+- Note
+- Thought
 
 <br>
 
+## **Tasks for Tomorrow**
+
+- TODO  Task 1
+- TODO Task 
+
+<br>
 <hr>Day Complete<hr>
