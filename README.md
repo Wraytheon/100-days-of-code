@@ -27,7 +27,7 @@ This repository serves as my journal, tracker, and accountability tool as I comp
 
 * I will tweet about my progress every day using the #100DaysOfCode hashtag
 * I will push code to github every day so that anyone can see my progress.
-* I will update the (Log)[round-One.md]
+* I will update the [Log](round-One/README.md)
 * I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge.
 * Each day, I will reach out to at least two people on Twitter who are also doing the challenge.
 
