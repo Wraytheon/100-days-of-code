@@ -10,6 +10,9 @@ This repository serves as my journal, tracker, and accountability tool as I comp
 
 <br>
 
+## Starting Date: 8/4/22
+
+<br>
 
 ## Commitment
 ### *I will code for at least an hour every day for the next 100 days.*
