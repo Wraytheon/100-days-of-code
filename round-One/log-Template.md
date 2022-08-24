@@ -1,3 +1,4 @@
+
 ## **Day**
 
 ### Date: mm/dd/yy
@@ -17,6 +18,13 @@
 
 <br>
 
+## **TODO**
+
+- [ ] 2+ Codewars
+- [ ] Task
+- [ ] Task
+
+
 ## **Today I ..**
 
 <hr>
@@ -24,18 +32,15 @@
 - What I did/Project name
     - **What I learned:** <br>
 What I learned
-<br>
-
+<br><br>
     - **Challenges:** <br>
 Challenges
-<br>
-
+<br><br>
     - [Link to work](link-address)
+<br><br> 
     - [Tool Or Resources used](tool-or-resource)
 
-- Progress
-
-    - [Link](link-address)
+<br>
 
 ## **Notes, Challenges, & Thoughts**
 
