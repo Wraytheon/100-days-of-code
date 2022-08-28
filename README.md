@@ -10,7 +10,7 @@ This repository serves as my journal, tracker, and accountability tool as I comp
 
 <br>
 
-## Starting Date: 8/4/22
+## Starting Date: 8/28/22
 
 <br>
 
