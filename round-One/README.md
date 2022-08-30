@@ -6,7 +6,7 @@
 
 <hr>
 
-## **Day 1**
+## :sunny: **Day 1**
 
 ### Date: 8/28/22
 
@@ -16,7 +16,7 @@
 
 <br>
 
-## **Goals**
+### **Goals**
 
 <hr>
 
@@ -25,7 +25,7 @@
 
 <br>
 
-## **Today I ..**
+### **Today I ..**
 
 <hr>
 
@@ -53,7 +53,7 @@ I had to look up examples for both of these kata. One of them contained a js cla
 <br>
 <br>
 
-## **Notes, Challenges, & Thoughts**
+### **Notes, Challenges, & Thoughts**
 
 <hr>
 
@@ -61,7 +61,7 @@ I had to look up examples for both of these kata. One of them contained a js cla
 
 <br>
 
-## **Tasks for Tomorrow**
+### **Tasks for Tomorrow**
 
 - TODO FAQ Card CSS
 - TODO Work on new portfolio

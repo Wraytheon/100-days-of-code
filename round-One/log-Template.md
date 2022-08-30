@@ -1,5 +1,5 @@
 
-## **Day**
+## :sunny: **Day**
 
 ### Date: mm/dd/yy
 
@@ -9,7 +9,7 @@
 
 <br>
 
-## **Goals**
+### **Goals**
 
 <hr>
 
@@ -18,14 +18,14 @@
 
 <br>
 
-## **TODO**
+### **TODO**
 
 - [ ] 2+ Codewars
 - [ ] Task
 - [ ] Task
 
 
-## **Today I ..**
+### **Today I ..**
 
 <hr>
 
@@ -42,7 +42,7 @@ Challenges
 
 <br>
 
-## **Notes, Challenges, & Thoughts**
+### **Notes, Challenges, & Thoughts**
 
 <hr>
 
@@ -51,7 +51,7 @@ Challenges
 
 <br>
 
-## **Tasks for Tomorrow**
+### **Tasks for Tomorrow**
 
 - TODO  Task 1
 - TODO Task 
