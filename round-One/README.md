@@ -68,3 +68,64 @@ I had to look up examples for both of these kata. One of them contained a js cla
 
 <br>
 <hr>Day Complete<hr>
+<br><br>
+
+## :sunny: **Day 2**
+
+### Date: 8/29/22 9:15pm
+
+### Time (optional): 1hr25min
+
+<hr>
+
+<br>
+
+### **Goals**
+
+<hr>
+
+- [ ] New portfolio update
+- [ ] FAQ CSS 10:20pm
+
+<br>
+
+### **TODO**
+
+- [x] 2+ Codewars
+
+
+### **Today I ..**
+
+<hr>
+
+- CodeWars 9:15-10:20
+    - **What I learned:** <br>
+What I learned
+<br><br>
+    - **Challenges:** <br>
+Challenges
+<br><br>
+    - [Link to work](link-address)
+<br><br> 
+    - [Tool Or Resources used](tool-or-resource)
+
+<br>
+
+- FAQ Card 10:20 - 10:44pm
+
+### **Notes, Challenges, & Thoughts**
+
+<hr>
+
+- Note
+- Thought
+
+<br>
+
+### **Tasks for Tomorrow**
+
+- TODO  Task 1
+- TODO Task 
+
+<br>
+<hr>Day Complete<hr>
