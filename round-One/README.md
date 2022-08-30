@@ -1,16 +1,16 @@
 # Round 1 Log
 
-## Start Date: 8/24/22
+## Start Date: 8/28/22
 
-## End Date: 12/2/22
+## End Date: 12/6/22
 
 <hr>
 
 ## **Day 1**
 
-### Date: mm/dd/yy
+### Date: 8/28/22
 
-### Time (optional): 11:02pm hrs::min
+### Time (optional): 6pm - 11pm
 
 <hr>
 
@@ -20,8 +20,8 @@
 
 <hr>
 
-- Goal  1
-- Goal 2
+- [x] Complete minimum of setup/html for FrontendMentor FAQ Accordion Card
+- [x] 2+ codewars
 
 <br>
 
@@ -29,35 +29,42 @@
 
 <hr>
 
-- What I did/Project name
+- FrontendMentor FAQ Accordion Card
+    - **Time Spent**: 3hr45min
     - **What I learned:** <br>
-What I learned
+Making an accordion with html, css, and js
 <br>
 
     - **Challenges:** <br>
-Challenges
+Trying to understand the javascript I used from the internet in order to tweak it for my project. Can't get site to open with accordion closed.
 <br>
 
-    - [Link to work](link-address)
-    - [Tool Or Resources used](tool-or-resource)
+    - [Progress screenshot](images/FAQ-progress-mobile.jpg)
 
-- Progress
+<br>
 
-    - [Link](link-address)
+- CodeWars: 8Kyu Find The Smallest Integer In The Array & 7Kyu Get The Middle Character 
+    - **Time Spent**: 1hr15min
+    - **What I learned:** <br>
+Spread operator can be used to expand arrays/iterables into individual elements and are very helpful when using Math.min/max with an array without having to extract each array item. <br>
+You can use .substring in place of charAt in some circumstances. The substring method allows you to extract part of a string and return it.
+    - **Challenges:** <br>
+I had to look up examples for both of these kata. One of them contained a js class which is something I haven't learned yet and I wasn;t sure how to go about extracting the correct letters for the string in the 7Kyu kata.
+<br>
+<br>
 
 ## **Notes, Challenges, & Thoughts**
 
 <hr>
 
-- Note
-- Thought
+- Day 1! Time to stop slacking. I'm worried that I won't be able to stay consistent but I'm ready to give it my all. I still hate CSS.
 
 <br>
 
 ## **Tasks for Tomorrow**
 
-- TODO  Task 1
-- TODO Task 
+- TODO FAQ Card CSS
+- TODO Work on new portfolio
 
 <br>
 <hr>Day Complete<hr>
