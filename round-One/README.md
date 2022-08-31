@@ -85,7 +85,7 @@ I had to look up examples for both of these kata. One of them contained a js cla
 <hr>
 
 - [ ] New portfolio update
-- [ ] FAQ CSS 10:20pm
+- [x] FAQ CSS
 
 <br>
 
@@ -98,34 +98,37 @@ I had to look up examples for both of these kata. One of them contained a js cla
 
 <hr>
 
-- CodeWars 9:15-10:20
+- CodeWars 26 and 27 -- 9:15-10:20
     - **What I learned:** <br>
-What I learned
+        - Used spread operator *...* in order to unpack a string of digits so that it could be iterated over and altered. [Screenshot](images/day2-spreadOperator.jpg) 
+        - You can daisychain methods together to accomplish several functions in one line of code. [Screenshot](images/day2-chainedMethods.jpg)
 <br><br>
     - **Challenges:** <br>
-Challenges
-<br><br>
-    - [Link to work](link-address)
-<br><br> 
-    - [Tool Or Resources used](tool-or-resource)
+Figuring out the best way to traverse a string, replace individual characters based on a condition and then return the new string as a one string.
 
 <br>
 
-- FAQ Card 10:20 - 10:44pm
+- FAQ Card 10:20 -- 10:44pm
+  - **Challenges** <br>
+    - Positioning svg graphics using position tag. Still don't fully grasp how to effectively use position tag. [Progress Screenshot](images/day2-FAQProgressMobile.jpg)
+    - 
 
 ### **Notes, Challenges, & Thoughts**
 
 <hr>
 
-- Note
-- Thought
+- Heavy brain fog and exhaustion today, almost skipped coding but didn't want to break my streak already. Feeling accomplished but also bummed at how little I got done.
 
 <br>
 
 ### **Tasks for Tomorrow**
 
-- TODO  Task 1
-- TODO Task 
+- TODO FAQ Card
+- TODO CodeWars
+- TODO Begin new portfolio 
 
+<br>
+
+[Link to tweet](https://twitter.com/Wraytheon_/status/1564451830775545856?s=20&t=MuVNTIEAGCyF5kIaeqosZQ)
 <br>
 <hr>Day Complete<hr>
