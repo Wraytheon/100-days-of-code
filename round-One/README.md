@@ -39,7 +39,7 @@ Making an accordion with html, css, and js
 Trying to understand the javascript I used from the internet in order to tweak it for my project. Can't get site to open with accordion closed.
 <br>
 
-    - [Progress screenshot](images/FAQ-progress-mobile.jpg)
+    - [Progress screenshot](images/day1-FAQProgressMobile.jpg)
 
 <br>
 
