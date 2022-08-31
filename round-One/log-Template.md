@@ -29,7 +29,7 @@
 
 <hr>
 
-- What I did/Project name
+- **What I did/Project name** -- timeStart-timeEnd
     - **What I learned:** <br>
 What I learned
 <br><br>
@@ -55,6 +55,10 @@ Challenges
 
 - TODO  Task 1
 - TODO Task 
+
+<br>
+
+[Link to tweet]()
 
 <br>
 <hr>Day Complete<hr>
