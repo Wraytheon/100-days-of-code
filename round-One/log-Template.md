@@ -46,6 +46,38 @@ What I learned
 
 <br>
 
+- **What I did/Project name** 
+-  timeStart-timeEnd
+<br><br>
+    - **Challenges:** 
+<br>
+Challenges
+<br><br>
+    - **What I learned:** 
+<br>
+What I learned
+<br><br>
+    - [Link to work](link-address)
+<br><br> 
+    - [Tool Or Resources used](tool-or-resource)
+
+<br>
+
+- **What I did/Project name** 
+-  timeStart-timeEnd
+<br><br>
+    - **Challenges:** 
+<br>
+Challenges
+<br><br>
+    - **What I learned:** 
+<br>
+What I learned
+<br><br>
+    - [Link to work](link-address)
+<br><br> 
+    - [Tool Or Resources used](tool-or-resource)
+
 ### **Notes, Challenges, & Thoughts**
 
 <hr>
@@ -59,8 +91,8 @@ What I learned
 
 <hr>
 
-- TODO  Task 1
-- TODO Task 
+-  Task 1
+- Task 
 
 <br>
 
