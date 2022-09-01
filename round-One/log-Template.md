@@ -68,11 +68,11 @@ What I learned
 <br><br>
     - **Challenges:** 
 <br>
-Challenges
+        - Challenges
 <br><br>
     - **What I learned:** 
 <br>
-What I learned
+        - What I learned
 <br><br>
     - [Link to work](link-address)
 <br><br> 
