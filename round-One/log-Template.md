@@ -29,12 +29,16 @@
 
 <hr>
 
-- **What I did/Project name** -- timeStart-timeEnd
-    - **What I learned:** <br>
-What I learned
+- **What I did/Project name** 
+-  timeStart-timeEnd
 <br><br>
-    - **Challenges:** <br>
+    - **Challenges:** 
+<br>
 Challenges
+<br><br>
+    - **What I learned:** 
+<br>
+What I learned
 <br><br>
     - [Link to work](link-address)
 <br><br> 
@@ -53,12 +57,15 @@ Challenges
 
 ### **Tasks for Tomorrow**
 
+<hr>
+
 - TODO  Task 1
 - TODO Task 
 
 <br>
 
-[Link to tweet]()
+**[Link to tweet]()**
 
 <br>
 <hr>Day Complete<hr>
+<br><hr><br><hr>
