@@ -495,6 +495,8 @@ exampleArray: ["arrayItem", "arrayItem2"]`
 - Add new concepts to Anki
 -  Redo Record Collection project : [Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection)
 - Redo Nesting For Loops: [Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/nesting-for-loops) 
+- Start next section of Algorithms & Data
+- Filter range in place js.info task [Link](https://codepen.io/wraytheon_/pen/PoROjRR)
 
 <br>
 
