@@ -506,7 +506,7 @@ exampleArray: ["arrayItem", "arrayItem2"]`
 <hr>Day Complete<hr>
 <br><hr><br><hr>
 
-## :sunny: **Day 6**
+## :sunny: **Day 7**
 
 ### Date: 9/3/22 9:03pm
 
