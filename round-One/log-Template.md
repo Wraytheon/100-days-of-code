@@ -3,7 +3,7 @@
 
 ### Date: mm/dd/yy
 
-### Time (optional): hrs::min
+### Start Time (optional): hrs::min
 
 <hr>
 
@@ -91,13 +91,8 @@ What I learned
 
 <hr>
 
--  Task 1
+- Task 1
 - Task 
 
 <br>
-
-**[Link to tweet]()**
-
-<br>
 <hr>Day Complete<hr>
-<br><hr><br><hr>
