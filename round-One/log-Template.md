@@ -3,7 +3,11 @@
 
 ### Date: mm/dd/yy
 
-### Start Time (optional): hrs::min
+### Start-time: 
+
+### Time Spent (optional): 
+- **Coding: **
+- **Total: ** 
 
 <hr>
 
@@ -29,7 +33,7 @@
 
 <hr>
 
-- **What I did/Project name** 
+- **What I did/project name** 
 -  timeStart-timeEnd
 <br><br>
     - **Challenges:** 
@@ -51,11 +55,11 @@ What I learned
 <br><br>
     - **Challenges:** 
 <br>
-Challenges
+        - Challenges
 <br><br>
     - **What I learned:** 
 <br>
-What I learned
+        - What I learned
 <br><br>
     - [Link to work](link-address)
 <br><br> 
