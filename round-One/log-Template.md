@@ -25,7 +25,7 @@
 ### **TODO**
 
 - [ ] 2+ Codewars
-- [ ] Task
+- [ ] 5min< Typing Practice
 - [ ] Task
 
 
